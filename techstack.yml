@@ -2,7 +2,7 @@ repo_name: 2lambda123/GenomeWorks
 report_id: 1925b657f75551a2a173d5bdd9b572b5
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:13:48+00:00'
+timestamp: '2024-02-29T19:21:00+00:00'
 requested_by: snorkell-ai[bot]
 provider: github
 branch: master
@@ -43,7 +43,7 @@ tools:
   last_updated_by: Joyjit Daw
   last_updated_on: 2020-10-16 05:27:10.000000000 Z
 - name: CMake
-  description: 'An open-source system that manages the build process '
+  description: An open-source system that manages the build process
   website_url: http://www.cmake.org/
   open_source: false
   hosted_saas: false
